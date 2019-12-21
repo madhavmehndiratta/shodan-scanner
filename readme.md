@@ -11,7 +11,7 @@ You can Install the Shodan in your Linux by typing the following command:
 ```
 $ pip install shodan
 ```
-Then verify your Private API key. For more information visit https://accounts.shodan.io
+Then verify your Private API key. For more information visit https://account.shodan.io
 
 ```
 $ shodan init <your-api-key>
